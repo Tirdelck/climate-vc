@@ -1,0 +1,4 @@
+pywebio
+openai
+pyPDF2
+google-cloud-storage
